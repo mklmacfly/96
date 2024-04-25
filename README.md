@@ -1,4 +1,4 @@
 # 96
 # HTML_CSS (Inline Stylesss)C
-<p style="color: blue; font_size: 26 px;"< styled paragraph<//A>
+<p style="color: blue; font_size: 27 px;"< styled paragraph<//A>
 
